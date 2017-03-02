@@ -16,5 +16,12 @@ namespace Calculadora
         {
             InitializeComponent();
         }
+
+        private void Btn_soma_Click(object sender, EventArgs e)
+        {
+
+        }
     }
-}
+} 
+
+
